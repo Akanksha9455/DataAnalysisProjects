@@ -1,6 +1,7 @@
 # DataAnalysisProjects
 
 Data Analysis SQL query Used -
+
 Show all customer records
 
 SELECT * FROM customers;
